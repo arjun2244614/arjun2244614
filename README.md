@@ -6,6 +6,20 @@
 **arjun2244614/arjun2244614** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 --!>
 
+<h3>Data enthusiast with strong business acumen and analytic skills.</h3>
+<p>
+  <img alt="Business Analysis" src="https://img.shields.io/badge/Business%20-Analysis-red" /> 
+  <img alt="Business Intelligence" src="https://img.shields.io/badge/Business%20-Intelligence-brightgreen" />
+  <img alt="Data Analyst" src="https://img.shields.io/badge/Data%20-Analysis-yellowgreen" />
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20-Learning-red" />
+  <img alt="Data Visualization" src="https://img.shields.io/badge/Data%20-Visualization-lightgrey" />
+  <img alt="Database Administrator" src="https://img.shields.io/badge/Data-Administrator-orange" />
+  <img alt="Database Developer" src="https://img.shields.io/badge/Data-Developer-yellow" />
+  <img alt="SEO" src="https://img.shields.io/badge/-SEO-green" />
+  <img alt="Business Development" src="https://img.shields.io/badge/Business%20-Development-red" />
+  <img alt="Digital Marketing" src="https://img.shields.io/badge/Digital%20-Marketing-brightgreen" />
+  </p>
+
 - 🔭 I’m currently working on Data Analysis and Data Vsualization.
 - 🌱 I’m currently learning Machine Learning.
 - 📫 Email : arjun2244614@gmail.com
